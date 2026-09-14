@@ -1,0 +1,79 @@
+.widget-stat .ibox-body {
+    padding: 12px 15px;
+    box-shadow: 9px 11px 5px -2px rgba(0, 0, 0, 0.37);
+    -webkit-box-shadow: 9px 11px 5px -2px rgba(0, 0, 0, 0.37);
+}
+
+.ibox .ibox-body {
+    padding: 15px 20px 20px 20px;
+}
+
+.color-white {
+    color: #fff !important;
+}
+
+.widget-stat-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    padding-top: 32px;
+    height: 100%;
+    line-height: 100px;
+    text-align: center;
+    font-size: 30px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+[class^="ti-"],
+[class*=" ti-"] {
+    font-family: 'themify';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.fa-money {
+    font-size: 30px !important;
+}
+
+.ibox {
+    position: relative;
+    margin-bottom: 25px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
+
+.flexbox {
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-pack: justify !important;
+    -webkit-justify-content: space-between !important;
+    -ms-flex-pack: justify !important;
+    justify-content: space-between !important;
+    -webkit-box-align: center !important;
+    -webkit-align-items: center !important;
+    -ms-flex-align: center !important;
+    align-items: center !important;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+
+.card_box {
+    height: 100px;
+}
+
+.card_text {
+    margin-top: 25px;
+    font-size: 18px;
+}

@@ -1,0 +1,34 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+# Temp & Vendor duplicates
+/temp/
+/mpdf/
+
+# OS & Logs
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+error_log
+/storage/logs/*.log
+
+# IDE & Editor files
+.idea/
+.vscode/
+/nbproject/private/
+*.sublime-project
+*.sublime-workspace
